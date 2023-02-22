@@ -4,9 +4,10 @@
 
 멋진 게임개발자 TA가 되는게 목표임다
 
-<a href="https://cybecho.notion.site/SBU-s-Archives-854ccd3338c2456a867956f26143998a" target="_blank"><img src="https://img.shields.io/badge/Portfolio-555555?style=flat-square&logo=Notion&logoColor=white"/></a>
-<a href="https://www.instagram.com/junk_warrior_vintage/" target="_blank"><img src="https://img.shields.io/badge/@junk_warrir_vintage-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.behance.net/thquddnr125654" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=Behance&logoColor=white"/></a>
+#### 📫 How to reach me?
+<a href="thquddnr123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/thquddnr123@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=Black"/></a>
+
+#### 😄 It's Me!
 
 <a href="https://cybecho.notion.site/SBU-s-Archives-854ccd3338c2456a867956f26143998a" target="_blank"><img src="https://img.shields.io/badge/Portfolio-303030?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/junk_warrior_vintage/" target="_blank"><img src="https://img.shields.io/badge/@junk_warrir_vintage-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
