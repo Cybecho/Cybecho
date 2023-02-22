@@ -5,7 +5,11 @@
 멋진 게임개발자 TA가 되는게 목표임다
 
 #### 📫 How to reach me?
-<a href="thquddnr123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/thquddnr123@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=White"/></a>
+<a href="mailto:thquddnr123@gmail.com">
+    <img 
+        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thquddnr123@gmail.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 #### 😄 It's Me!
 
