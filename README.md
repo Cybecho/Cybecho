@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+일단 당장은 영상만들고 매크로만들고 옷이나 팔며 배채우지만...
+
+멋진 게임개발자 TA가 되는게 목표임다
+
 <!--
 **HelloZOOO/HelloZOOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
