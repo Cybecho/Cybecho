@@ -6,9 +6,9 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-000000=Notion&logoColor=white"/></a>
 
-<a href="https://cybecho.notion.site/SBU-s-Archives-854ccd3338c2456a867956f26143998a" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.instagram.com/hongssup"/></a>
+<a href="https://cybecho.notion.site/SBU-s-Archives-854ccd3338c2456a867956f26143998a" target="_blank"><img src="https://img.shields.io/badge/Notion-555555?style=flat-square&logo=Notion&logoColor=white"/></a>
 
-<a href="https://www.instagram.com/junk_warrior_vintage/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hongssup"/></a>
+<a href="https://www.instagram.com/junk_warrior_vintage/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 <!--
 **HelloZOOO/HelloZOOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
