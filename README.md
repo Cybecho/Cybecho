@@ -12,7 +12,7 @@
 </a>
 
 #### 😄 It's Me!!!
-##### Always 
+##### 솔직히. 오늘은. 그냥. Readme.md 파일만. 수정하고. 커밋합니다. (부끄)
 
 <a href="https://cybecho.notion.site/SBU-s-Archives-854ccd3338c2456a867956f26143998a" target="_blank"><img src="https://img.shields.io/badge/Portfolio-303030?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/junk_warrior_vintage/" target="_blank"><img src="https://img.shields.io/badge/@junk_warrir_vintage-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
