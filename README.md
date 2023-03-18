@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-일단 당장은 영상만들고 매크로만들고 옷이나 팔며 배채우지만...
-
-멋진 게임개발자 TA가 되는게 목표임다
+언제쯤 1인분을 할까요 저는
 
 #### 📫 How to reach me?
 <a href="mailto:thquddnr123@gmail.com">
