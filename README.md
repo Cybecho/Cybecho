@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-시간아 멈춰라~
+프로필사진 제 셀카입니다 도용X
 
 #### 📫 How to reach me?
 <a href="mailto:thquddnr123@gmail.com">
