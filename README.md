@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-언제쯤 1인분을 할까요 저는
+시간아 멈춰라~
 
 #### 📫 How to reach me?
 <a href="mailto:thquddnr123@gmail.com">
