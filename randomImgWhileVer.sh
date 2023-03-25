@@ -39,5 +39,5 @@ while true; do
     # Paste file info on README.md
     echo " $(echo -e "<br/>") $(cat ./table.html)" >> ./README.md
 
-    sleep 90 # 1시간 대기
+    sleep 3590 # 1시간 대기
 done
