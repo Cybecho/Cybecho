@@ -18,19 +18,19 @@ while true; do
 
 		if [ $urlRandom -eq 1 ]
 		then
-    			url="https://www.naver.com"
+    			url="http://www.lomando.com/chaos.html"
 		elif [ $urlRandom -eq 2 ]
 		then
-    			url="https://www.google.com"
+    			url="http://www.lomando.com/chaos.html"
 		elif [ $urlRandom -eq 3 ]
 		then
-    			url="https://www.yahoo.com"
+    			url="http://www.lomando.com/nyanyanyanyahn.html"
 		else
-    			url="https://github.com/HelloZOOO"
+    			url="http://www.lomando.com/9gu0omn0obyea.html"
 		fi
 
 	    rand_num=$(( $RANDOM % 2001 + 415500 ))
-            echo "<td><a href='$url'><img src='https://www.random-art.org/img/large/$rand_num.jpg'></a></td>" >> ./table.html
+            echo "<td><a href='$url'><img src='https://www.random-art.org/img/large/$rand_num.jpg' title='image info'></a></td>" >> ./table.html
         done
         echo "</tr>" >> ./table.html
     done
