@@ -2,10 +2,10 @@
 source /home/thquddnr123/.bashrc
 cd /home/thquddnr123/AutoCommit/HelloZOOO/
 
-# 원본 README 복사
+# copy origin README 
 cat ./README_origin.md > ./README.md
 
-# 랜덤한 난수를 생성하여 URL부분에 입력해주는 과정
+# Generate random value and add to URL
 echo "<table>" > ./table.html
 for i in {1..3}; do
     echo "<tr>" >> ./table.html
@@ -17,6 +17,6 @@ for i in {1..3}; do
 done
 echo "</table>" >> ./table.html
 
-# README.md 파일에 테이블 정보 붙여넣기
+# Paste file info on README.md
 echo " $(echo -e "<br/>") $(cat /home/thquddnr123/AutoCommit/HelloZOOO/table.html)" >> ./README.md
 
