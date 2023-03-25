@@ -18,10 +18,10 @@ while true; do
 
 		if [ $urlRandom -eq 1 ]
 		then
-    			url="http://www.lomando.com/nyanyanyanyahn.html"
+    			url="http://www.lomando.com/smpdoor.html"
 		elif [ $urlRandom -eq 2 ]
 		then
-    			url="http://www.lomando.com/smpeyekotoba.html"
+    			url="http://www.lomando.com/smpdoor.html"
 		elif [ $urlRandom -eq 3 ]
 		then
     			url="http://www.lomando.com/smpdoor.html"
