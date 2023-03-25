@@ -18,5 +18,5 @@ done
 echo "</table>" >> /home/thquddnr123/AutoCommit/HelloZOOO/table.html
 
 # README.md 파일에 테이블 정보 붙여넣기
-echo " $(echo -e "<br/>") $(cat table.html)" >> /home/thquddnr123/AutoCommit/HelloZOOO/README.md
+echo " $(echo -e "<br/>") $(cat /home/thquddnr123/AutoCommit/HelloZOOO/table.html)" >> /home/thquddnr123/AutoCommit/HelloZOOO/README.md
 
