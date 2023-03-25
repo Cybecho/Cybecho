@@ -17,8 +17,6 @@
 
 
 
-![](https://www.random-art.org/img/large/417819.jpg)
-
 <!--
 마크업 바로보기 사이트
 https://dillinger.io/ 
