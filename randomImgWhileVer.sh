@@ -19,7 +19,7 @@ while true; do
     echo "</table>" >> ./table.html
 
     # Paste file info on README.md
-    echo " $(echo -e "<br/>") $(cat /home/thquddnr123/AutoCommit/HelloZOOO/table.html)" >> ./README.md
+    echo " $(echo -e "<br/>") $(cat ./table.html)" >> ./README.md
 
     sleep 60 # 60초 대기
 done
