@@ -13,7 +13,7 @@
 
 </br>
 
-## 하루에 6번 이미지가 변해요
+## 하루에 여러번 이미지가 변해요
 ### 뭔가 있어 보이는 이미지를 감상해 봅시다
 
 <!--
@@ -22,18 +22,18 @@ https://dillinger.io/
 -->
  <br/> <table>
 <tr>
-<td><img src='https://www.random-art.org/img/large/416450.jpg'></td>
-<td><img src='https://www.random-art.org/img/large/416245.jpg'></td>
-<td><img src='https://www.random-art.org/img/large/417171.jpg'></td>
+<td><img src='https://www.random-art.org/img/large/415612.jpg'></td>
+<td><img src='https://www.random-art.org/img/large/415646.jpg'></td>
+<td><img src='https://www.random-art.org/img/large/416275.jpg'></td>
 </tr>
 <tr>
-<td><img src='https://www.random-art.org/img/large/416262.jpg'></td>
-<td><img src='https://www.random-art.org/img/large/415593.jpg'></td>
-<td><img src='https://www.random-art.org/img/large/416362.jpg'></td>
+<td><img src='https://www.random-art.org/img/large/417325.jpg'></td>
+<td><img src='https://www.random-art.org/img/large/416524.jpg'></td>
+<td><img src='https://www.random-art.org/img/large/416110.jpg'></td>
 </tr>
 <tr>
-<td><img src='https://www.random-art.org/img/large/416250.jpg'></td>
-<td><img src='https://www.random-art.org/img/large/416225.jpg'></td>
-<td><img src='https://www.random-art.org/img/large/416872.jpg'></td>
+<td><img src='https://www.random-art.org/img/large/415504.jpg'></td>
+<td><img src='https://www.random-art.org/img/large/416902.jpg'></td>
+<td><img src='https://www.random-art.org/img/large/415550.jpg'></td>
 </tr>
 </table>
