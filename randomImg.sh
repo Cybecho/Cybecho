@@ -1,6 +1,6 @@
 #!/bin/bash
 source /home/thquddnr123/.bashrc
-cd /home/thquddnr123/AutoCommit/HelloZOOO/
+cd /home/thquddnr123/AutoCommit/HelloZOOO
 
 # 원본 README 복사
 cat README_origin.md > README.md
