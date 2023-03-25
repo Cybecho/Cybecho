@@ -16,6 +16,8 @@
 <a href="https://www.behance.net/thquddnr125654" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=Behance&logoColor=white"/></a>
 
 
+## 4시간에 한번씩 이미지가 바뀝니다.
+### 뭔가 있어 보이는 이미지를 감상해 봅시다
 
 <!--
 마크업 바로보기 사이트
