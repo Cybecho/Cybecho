@@ -14,17 +14,17 @@ while true; do
         echo "<tr>" >> ./table.html
         for j in {1..3}; do
 
-		urlRandom=$(( $RANDOM % 10 + 1 ))
+		urlRandom=$(( $RANDOM % 5 + 1 ))
 
 		if [ $urlRandom -eq 1 ]
 		then
-    			url="www.naver.com"
+    			url="https://www.naver.com"
 		elif [ $urlRandom -eq 2 ]
 		then
-    			url="www.google.com"
+    			url="https://www.google.com"
 		elif [ $urlRandom -eq 3 ]
 		then
-    			url="www.yahoo.com"
+    			url="https://www.yahoo.com"
 		else
     			url="https://github.com/HelloZOOO"
 		fi
