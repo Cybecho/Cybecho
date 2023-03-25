@@ -14,19 +14,28 @@ while true; do
         echo "<tr>" >> ./table.html
         for j in {1..3}; do
 
-		urlRandom=$(( $RANDOM % 5 + 1 ))
+		urlRandom=$(( $RANDOM % 8 + 1 ))
 
 		if [ $urlRandom -eq 1 ]
 		then
-    			url="http://www.lomando.com/smpdoor.html"
+    			url="https://longdogechallenge.com/"
 		elif [ $urlRandom -eq 2 ]
 		then
     			url="http://www.lomando.com/smpdoor.html"
 		elif [ $urlRandom -eq 3 ]
 		then
-    			url="http://www.lomando.com/smpdoor.html"
+    			url="https://pointerpointer.com/"
+		elif [ $urlRandom -eq 4 ]
+		then
+			url="https://kimjongillookingatthings.tumblr.com/"
+		elif [ $urlRandom -eq 5 ]
+                then
+                        url="https://binarypiano.com/"
+		elif [ $urlRandom -eq 6 ]
+                then
+                        url="https://leekspin.com/"
 		else
-    			url="http://www.lomando.com/smpdoor.html"
+    			url="https://www.cameronsworld.net"
 		fi
 
 	    rand_num=$(( $RANDOM % 2001 + 415500 ))
