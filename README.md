@@ -13,11 +13,11 @@
 
 </br>
 
-## 4시간에 한번씩 이미지가 바뀝니다.
+## 하루에 6번 이미지가 변해요
 ### 뭔가 있어 보이는 이미지를 감상해 봅시다
 
 <!--
 마크업 바로보기 사이트
 https://dillinger.io/ 
 -->
- <br/> ![](https://www.random-art.org/img/large/417326.jpg)
+ <br/> ![](https://www.random-art.org/img/large/416520.jpg)
