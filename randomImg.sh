@@ -1,14 +1,14 @@
 #!/bin/bash
 source /home/thquddnr123/.bashrc
-cd /home/thquddnr123/AutoCommit/HelloZOOO
+cd /home/thquddnr123/AutoCommit/HelloZOOO/
 
 # 원본 README 복사
 cat README_origin.md > README.md
 
 # 랜덤한 난수를 생성하여 URL부분에 입력해주는 과정
-echo "<table>" > table.html
+echo "<table>" > /home/thquddnr123/AutoCommit/HelloZOOO/table.html
 for i in {1..3}; do
-    echo "<tr>" >> table.html
+    echo "<tr>" >> /home/thquddnr123/AutoCommit/HelloZOOO/table.html
     for j in {1..3}; do
         rand_num=$(( $RANDOM % 2001 + 415500 ))
         echo "<td><img src='https://www.random-art.org/img/large/$rand_num.jpg'></td>" >> table.html
