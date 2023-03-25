@@ -11,7 +11,7 @@ for i in {1..3}; do
     echo "<tr>" >> /home/thquddnr123/AutoCommit/HelloZOOO/table.html
     for j in {1..3}; do
         rand_num=$(( $RANDOM % 2001 + 415500 ))
-        echo "<td><img src='https://www.random-art.org/img/large/$rand_num.jpg'></td>" >> table.html
+        echo "<td><img src='https://www.random-art.org/img/large/$rand_num.jpg'></td>" >> /home/thquddnr123/AutoCommit/HelloZOOO/table.html
     done
     echo "</tr>" >> /home/thquddnr123/AutoCommit/HelloZOOO/table.html
 done
