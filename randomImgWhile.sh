@@ -29,7 +29,7 @@ while true; do
     for i in {1..3}; do
         echo "<tr>" >> ./table.html
         for j in {1..3}; do
-            echo "<td><a href='${sh_urls[$((indx))]}'><img src='${sh_realtimeUrls[$((indx))]}'></a></td>" >> ./table.html
+            echo "<td><a href='${sh_urls[$((indx))]}' target='_blank'><img src='${sh_realtimeUrls[$((indx))]}'></a></td>" >> ./table.html
             indx=$((indx+1))
         done
         echo "</tr>" >> ./table.html
