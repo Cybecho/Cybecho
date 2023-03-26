@@ -1,10 +1,11 @@
+<!--
 #### 📫 How to reach me?
 <a href="mailto:thquddnr123@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thquddnr123@gmail.com"
         style="height : auto; margin-left : 60px; margin-right : 60px;"/>
 </a>
-
+-->
 #### 😄 It's Me!!!
 
 <a href="https://cybecho.notion.site/SBU-s-Archives-854ccd3338c2456a867956f26143998a" target="_blank"><img src="https://img.shields.io/badge/Portfolio-303030?style=for-the-badge&logo=Notion&logoColor=white"/></a>
@@ -22,18 +23,18 @@ https://dillinger.io/
 -->
   <br/> <table>
 <tr>
-<td><a href='https://pointerpointer.com/'><img src='https://www.random-art.org/img/large/415896.jpg'></a></td>
-<td><a href='https://binarypiano.com/'><img src='https://www.random-art.org/img/large/415911.jpg'></a></td>
-<td><a href='https://www.cameronsworld.net'><img src='https://www.random-art.org/img/large/415894.jpg'></a></td>
+<td><a href='https://kimjongillookingatthings.tumblr.com/'><img src='https://www.random-art.org/img/large/415949.jpg'></a></td>
+<td><a href='https://www.cameronsworld.net'><img src='https://www.random-art.org/img/large/415873.jpg'></a></td>
+<td><a href='https://name.ho9.me/'><img src='https://www.random-art.org/img/large/415940.jpg'></a></td>
 </tr>
 <tr>
-<td><a href='https://img.theqoo.net/img/rjIus.jpg'><img src='https://www.random-art.org/img/large/415908.jpg'></a></td>
-<td><a href='https://longdogechallenge.com/'><img src='https://www.random-art.org/img/large/415916.jpg'></a></td>
-<td><a href='https://www.omfgdogs.com/#'><img src='https://www.random-art.org/img/large/415846.jpg'></a></td>
+<td><a href='https://binarypiano.com/'><img src='https://www.random-art.org/img/large/415906.jpg'></a></td>
+<td><a href='http://www.omglasergunspewpewpew.com/'><img src='https://www.random-art.org/img/large/415917.jpg'></a></td>
+<td><a href='https://img.theqoo.net/img/rjIus.jpg'><img src='https://www.random-art.org/img/large/415900.jpg'></a></td>
 </tr>
 <tr>
-<td><a href='https://name.ho9.me/'><img src='https://www.random-art.org/img/large/415953.jpg'></a></td>
-<td><a href='http://www.omglasergunspewpewpew.com/'><img src='https://www.random-art.org/img/large/415932.jpg'></a></td>
-<td><a href='https://kimjongillookingatthings.tumblr.com/'><img src='https://www.random-art.org/img/large/415904.jpg'></a></td>
+<td><a href='https://www.omfgdogs.com/#'><img src='https://www.random-art.org/img/large/415944.jpg'></a></td>
+<td><a href='https://longdogechallenge.com/'><img src='https://www.random-art.org/img/large/415881.jpg'></a></td>
+<td><a href='https://pointerpointer.com/'><img src='https://www.random-art.org/img/large/415937.jpg'></a></td>
 </tr>
 </table>

@@ -1,10 +1,11 @@
+<!--
 #### 📫 How to reach me?
 <a href="mailto:thquddnr123@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thquddnr123@gmail.com"
         style="height : auto; margin-left : 60px; margin-right : 60px;"/>
 </a>
-
+-->
 #### 😄 It's Me!!!
 
 <a href="https://cybecho.notion.site/SBU-s-Archives-854ccd3338c2456a867956f26143998a" target="_blank"><img src="https://img.shields.io/badge/Portfolio-303030?style=for-the-badge&logo=Notion&logoColor=white"/></a>
