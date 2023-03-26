@@ -8,7 +8,7 @@ urls=(
     "https://kimjongillookingatthings.tumblr.com/"
     "https://binarypiano.com/"
     "https://name.ho9.me/"
-    "https://leekspin.com/"
+    "https://img.theqoo.net/img/rjIus.jpg"
     "https://www.cameronsworld.net"
     "https://www.omfgdogs.com/#"
     "http://www.omglasergunspewpewpew.com/"
