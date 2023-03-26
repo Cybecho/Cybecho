@@ -3,15 +3,15 @@ source /home/thquddnr123/.bashrc
 cd /home/thquddnr123/AutoCommit/HelloZOOO/ 
 
 urls=(
+    "https://longdogechallenge.com/"
+    "https://pointerpointer.com/"
+    "https://kimjongillookingatthings.tumblr.com/"
+    "https://binarypiano.com/"
+    "https://leekspin.com/"
+    "https://leekspin.com/"
+    "https://www.cameronsworld.net"
+    "https://www.google.com"
     "https://github.com/HelloZOOO"
-    "https://github.com/HelloZOOO2"
-    "https://github.com/HelloZOOO3"
-    "https://github.com/HelloZOOO4"
-    "https://github.com/HelloZOOO5"
-    "https://github.com/HelloZOOO6"
-    "https://github.com/HelloZOOO7"
-    "https://github.com/HelloZOOO8"
-    "https://github.com/HelloZOOO9"
 )
 
 while true; do
@@ -34,30 +34,4 @@ while true; do
     echo " $(echo -e "<br/>") $(cat ./table.html)" >> ./README.md
 
     sleep 1800 # 30분 대기
-done#
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+done
