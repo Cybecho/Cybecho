@@ -16,7 +16,7 @@ urls=(
 
 while true; do
     shuffled_urls=($(shuf -e "${urls[@]}"))
-    sh_indx=0
+    sh_idx=0
 
     # copy origin README 
     cat ./README_origin.md > ./README.md
@@ -28,7 +28,7 @@ while true; do
         for j in {1..3}; do
             rand_num=$(( $RANDOM % 2001 + 415500 ))
             echo "<td><a href='${shuffled_urls[$((sh_idx))]}'><img src='https://www.random-art.org/img/large/$rand_num.jpg'></a></td>" >> ./table.html
-            sh_indx=$((sh_idx+1))
+            sh_idx=$((sh_idx+1))
         done
         echo "</tr>" >> ./table.html
     done
