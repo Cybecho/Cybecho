@@ -7,11 +7,11 @@ urls=(
     "https://pointerpointer.com/"
     "https://kimjongillookingatthings.tumblr.com/"
     "https://binarypiano.com/"
-    "https://leekspin.com/"
+    "https://name.ho9.me/"
     "https://leekspin.com/"
     "https://www.cameronsworld.net"
-    "https://www.google.com"
-    "https://github.com/HelloZOOO"
+    "https://www.omfgdogs.com/#"
+    "http://www.omglasergunspewpewpew.com/"
 )
 
 while true; do
