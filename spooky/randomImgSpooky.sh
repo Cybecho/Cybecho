@@ -21,7 +21,7 @@ sh_Urls=($(shuf -e "${urls[@]}"))
 indx=0
 
 # copy origin README 
-cat ./README_spooky.md > ./README.md
+cat ./README_spooky.md > ../README.md
 
 # Generate random value and add to URL
     echo "<table>" > ./table.html
