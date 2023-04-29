@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 base_url = 'https://www.random-art.org/?page='
 jpg_urls = []
-pageRange = random.randrange(1,180)
+pageRange = random.randrange(1,50)
 
 # Loop through all pages
 for page in range(pageRange, (pageRange + 5)):  # Change 10 to the number of pages yo>
