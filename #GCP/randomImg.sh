@@ -1,6 +1,6 @@
 #!/bin/bash
-source /home/sbu/.bashrc
-cd /home/sbu/HelloZOOO/spooky/
+source /home/thquddnr123/.bashrc
+cd /home/thquddnr123/AutoCommit/HelloZOOO/
 
 urls=(
     "https://longdogechallenge.com/"
@@ -14,14 +14,14 @@ urls=(
     "http://www.omglasergunspewpewpew.com/"
 )
 
-realtimeUrls=($(cat ./imgListSpooky.txt))
+realtimeUrls=($(cat ./imgList.txt))
 
 sh_realtimeUrls=($(shuf -e "${realtimeUrls[@]}"))
 sh_Urls=($(shuf -e "${urls[@]}"))
 indx=0
 
 # copy origin README 
-cat ./README_spooky.md > ../README.md
+cat ./README_origin.md > ./README.md
 
 # Generate random value and add to URL
     echo "<table>" > ./table.html
@@ -33,7 +33,7 @@ cat ./README_spooky.md > ../README.md
         done
         echo "</tr>" >> ./table.html
     done
-    echo "</table>" >> ./table.html
+     echo "</table>" >> ./table.html
 
 # Paste file info on README.md
-echo "  $(echo -e '<br/>') $(cat ./table.html)" >> ../README.md
+echo "  $(echo -e '<br/>') $(cat ./table.html)" >> ./README.md

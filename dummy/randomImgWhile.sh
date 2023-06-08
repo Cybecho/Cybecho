@@ -1,6 +1,6 @@
 #!/bin/bash
-source /home/thquddnr123/.bashrc
-cd /home/thquddnr123/AutoCommit/HelloZOOO/
+source /home/sbu/.bashrc
+cd /home/sbu/HelloZOOO/
 
 urls=(
     "https://longdogechallenge.com/"

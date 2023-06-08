@@ -1,6 +1,6 @@
 #!/bin/bash
-source /home/sbu/.bashrc
-cd /home/sbu/HelloZOOO/spooky/
+source /home/thquddnr123/.bashrc
+cd /home/thquddnr123/AutoCommit/HelloZOOO/spooky/
 
 urls=(
     "https://longdogechallenge.com/"
@@ -33,7 +33,7 @@ cat ./README_spooky.md > ../README.md
         done
         echo "</tr>" >> ./table.html
     done
-    echo "</table>" >> ./table.html
+     echo "</table>" >> ./table.html
 
 # Paste file info on README.md
 echo "  $(echo -e '<br/>') $(cat ./table.html)" >> ../README.md
