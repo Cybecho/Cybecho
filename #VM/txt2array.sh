@@ -1,6 +1,6 @@
 #!/bin/bash
-source /home/ubuntu/.bashrc
-cd /home/ubuntu/AutoCommit/test/
+source /home/sbu/.bashrc
+cd /home/sbu/AutoCommit/test/
 
 array=($(cat ./imgList.txt))
 

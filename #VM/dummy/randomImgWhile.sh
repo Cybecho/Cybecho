@@ -1,6 +1,6 @@
 #!/bin/bash
-source /home/ubuntu/.bashrc
-cd /home/ubuntu/HelloZOOO/
+source /home/sbu/.bashrc
+cd /home/sbu/HelloZOOO/
 
 urls=(
     "https://longdogechallenge.com/"
@@ -14,9 +14,12 @@ urls=(
     "http://www.omglasergunspewpewpew.com/"
 )
 
+realtimeUrls=($(cat ./imgList.txt))
+
 while true; do
-    shuffled_urls=($(shuf -e "${urls[@]}"))
-    sh_idx=0
+    sh_realtimeUrls=($(shuf -e "${realtimeUrls[@]}"))
+    sh_urls=($(shuf -e "${urls[@]}"))
+    indx=0
 
     # copy origin README 
     cat ./README_origin.md > ./README.md
@@ -26,9 +29,8 @@ while true; do
     for i in {1..3}; do
         echo "<tr>" >> ./table.html
         for j in {1..3}; do
-            rand_num=$(( $RANDOM % 2001 + 415500 ))
-            echo "<td><a href='${shuffled_urls[$((sh_idx))]}'><img src='https://www.random-art.org/img/large/$rand_num.jpg'></a></td>" >> ./table.html
-            sh_idx=$((sh_idx+1))
+            echo "<td><a href='${sh_urls[$((indx))]}' target='_blank'><img src='${sh_realtimeUrls[$((indx))]}'></a></td>" >> ./table.html
+            indx=$((indx+1))
         done
         echo "</tr>" >> ./table.html
     done
