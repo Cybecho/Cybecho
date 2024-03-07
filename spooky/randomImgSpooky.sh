@@ -1,6 +1,6 @@
 #!/bin/bash
 source /home/ubuntu/.bashrc
-cd /home/ubuntu/HelloZOOO/spooky/
+cd /home/ubuntu/Cybecho/spooky/
 
 urls=(
     "https://longdogechallenge.com/"
