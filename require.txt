@@ -1,0 +1,18 @@
+# 요구사항
+- python3.11 필요
+- pip 필요
+	- pip install bs4
+
+# 사용자별로 디렉토리 수동으로 변경해야함
+/home/<유저이름>/. 에서 <유저이름> 자신 환경에 맞게 수정하시오
+ 
+- txt2array.sh
+- randomImg.sh
+- commit_profile.sh
+- crontabInfo.txt # 해당 내용 crontab -e 에서 추가해줘야함
+
+# 기본 README 내용 수정을 원한다면, ReadME_origin.md 부분을 수정하시오
+
+# 오전 4시 44분에 이스터에그를 추가하고싶다면, 
+spooky 디렉토리에 있는 ./spooky/randomImgSpooky.sh 실행 후 
+./commit_profile.sh 실행
