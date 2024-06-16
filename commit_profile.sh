@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /home/ubuntu/Cybecho
+cd /home/sbu/Cybecho
 git add .
 git commit -m "Automated commit $(date)"
 git push origin main
