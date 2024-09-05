@@ -16,9 +16,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=unity,unreal,raspberrypi,aws)](https://skillicons.dev)
 
-[![My Love](https://skillicons.dev/icons?i=arch,debian,apple,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,unreal,aws)](https://skillicons.dev)
+
+
+[![My Os](https://skillicons.dev/icons?i=arch,debian,ubuntu,raspberrypi,apple,windows&perline=3)](https://skillicons.dev)
 
 ## 하루에 여러번 이미지가 변해요!
 
