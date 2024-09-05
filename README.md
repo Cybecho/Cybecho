@@ -7,15 +7,20 @@
 </a>
 -->
 #### 😄 It's Me!!!
-
 <a href="https://cybecho.notion.site/SBU-s-Archives-854ccd3338c2456a867956f26143998a" target="_blank"><img src="https://img.shields.io/badge/Portfolio-303030?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/junk_warrior_vintage/" target="_blank"><img src="https://img.shields.io/badge/@junk_warrir_vintage-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.behance.net/thquddnr125654" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=Behance&logoColor=white"/></a>
-
 </br>
 
-## 하루에 여러번 이미지가 변해요
-### 뭔가 있어 보이는 이미지를 감상해 봅시다
+### 🛠️ My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=unity,unreal,raspberrypi,aws)](https://skillicons.dev)
+
+[![My Love](https://skillicons.dev/icons?i=arch,debian,apple,windows)](https://skillicons.dev)
+
+## 하루에 여러번 이미지가 변해요!
 
 <!--
 마크업 바로보기 사이트
@@ -23,18 +28,18 @@ https://dillinger.io/
 -->
   <br/> <table>
 <tr>
-<td><a href='https://kimjongillookingatthings.tumblr.com/'><img src='https://www.random-art.org/img/large/447434.jpg'></a></td>
-<td><a href='https://name.ho9.me/'><img src='https://www.random-art.org/img/large/447319.jpg'></a></td>
-<td><a href='https://img.theqoo.net/img/rjIus.jpg'><img src='https://www.random-art.org/img/large/447410.jpg'></a></td>
+<td><a href='https://binarypiano.com/'><img src='https://www.random-art.org/img/large/447409.jpg'></a></td>
+<td><a href='https://pointerpointer.com/'><img src='https://www.random-art.org/img/large/447363.jpg'></a></td>
+<td><a href='https://www.cameronsworld.net'><img src='https://www.random-art.org/img/large/447331.jpg'></a></td>
 </tr>
 <tr>
-<td><a href='https://www.cameronsworld.net'><img src='https://www.random-art.org/img/large/447350.jpg'></a></td>
-<td><a href='https://www.omfgdogs.com/#'><img src='https://www.random-art.org/img/large/447352.jpg'></a></td>
-<td><a href='http://www.omglasergunspewpewpew.com/'><img src='https://www.random-art.org/img/large/447342.jpg'></a></td>
+<td><a href='https://name.ho9.me/'><img src='https://www.random-art.org/img/large/447379.jpg'></a></td>
+<td><a href='https://img.theqoo.net/img/rjIus.jpg'><img src='https://www.random-art.org/img/large/447354.jpg'></a></td>
+<td><a href='https://kimjongillookingatthings.tumblr.com/'><img src='https://www.random-art.org/img/large/447385.jpg'></a></td>
 </tr>
 <tr>
-<td><a href='https://pointerpointer.com/'><img src='https://www.random-art.org/img/large/447327.jpg'></a></td>
-<td><a href='https://binarypiano.com/'><img src='https://www.random-art.org/img/large/447381.jpg'></a></td>
-<td><a href='https://longdogechallenge.com/'><img src='https://www.random-art.org/img/large/447421.jpg'></a></td>
+<td><a href='https://longdogechallenge.com/'><img src='https://www.random-art.org/img/large/447440.jpg'></a></td>
+<td><a href='http://www.omglasergunspewpewpew.com/'><img src='https://www.random-art.org/img/large/447348.jpg'></a></td>
+<td><a href='https://www.omfgdogs.com/#'><img src='https://www.random-art.org/img/large/447410.jpg'></a></td>
 </tr>
 </table>
