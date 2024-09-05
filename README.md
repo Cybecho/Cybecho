@@ -8,8 +8,8 @@
 -->
 #### 😄 It's Me!!!
 <a href="https://cybecho.notion.site/SBU-s-Archives-854ccd3338c2456a867956f26143998a" target="_blank"><img src="https://img.shields.io/badge/Portfolio-303030?style=for-the-badge&logo=Notion&logoColor=white"/></a>
-<a href="https://www.instagram.com/junk_warrior_vintage/" target="_blank"><img src="https://img.shields.io/badge/@junk_warrir_vintage-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.behance.net/thquddnr125654" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=Behance&logoColor=white"/></a>
+<!-- <a href="https://www.instagram.com/junk_warrior_vintage/" target="_blank"><img src="https://img.shields.io/badge/@junk_warrir_vintage-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a> -->
 </br>
 
 ### 🛠️ My Skills
@@ -30,18 +30,18 @@ https://dillinger.io/
 -->
   <br/> <table>
 <tr>
-<td><a href='https://www.omfgdogs.com/#'><img src='https://www.random-art.org/img/large/447367.jpg'></a></td>
-<td><a href='https://longdogechallenge.com/'><img src='https://www.random-art.org/img/large/447381.jpg'></a></td>
-<td><a href='https://img.theqoo.net/img/rjIus.jpg'><img src='https://www.random-art.org/img/large/447339.jpg'></a></td>
+<td><a href='https://kimjongillookingatthings.tumblr.com/'><img src='https://www.random-art.org/img/large/447366.jpg'></a></td>
+<td><a href='https://img.theqoo.net/img/rjIus.jpg'><img src='https://www.random-art.org/img/large/447409.jpg'></a></td>
+<td><a href='https://name.ho9.me/'><img src='https://www.random-art.org/img/large/447359.jpg'></a></td>
 </tr>
 <tr>
-<td><a href='https://binarypiano.com/'><img src='https://www.random-art.org/img/large/447399.jpg'></a></td>
-<td><a href='https://www.cameronsworld.net'><img src='https://www.random-art.org/img/large/447372.jpg'></a></td>
-<td><a href='https://pointerpointer.com/'><img src='https://www.random-art.org/img/large/447405.jpg'></a></td>
+<td><a href='https://longdogechallenge.com/'><img src='https://www.random-art.org/img/large/447371.jpg'></a></td>
+<td><a href='https://www.omfgdogs.com/#'><img src='https://www.random-art.org/img/large/447412.jpg'></a></td>
+<td><a href='https://binarypiano.com/'><img src='https://www.random-art.org/img/large/447387.jpg'></a></td>
 </tr>
 <tr>
-<td><a href='http://www.omglasergunspewpewpew.com/'><img src='https://www.random-art.org/img/large/447386.jpg'></a></td>
-<td><a href='https://kimjongillookingatthings.tumblr.com/'><img src='https://www.random-art.org/img/large/447441.jpg'></a></td>
-<td><a href='https://name.ho9.me/'><img src='https://www.random-art.org/img/large/447322.jpg'></a></td>
+<td><a href='https://pointerpointer.com/'><img src='https://www.random-art.org/img/large/447434.jpg'></a></td>
+<td><a href='https://www.cameronsworld.net'><img src='https://www.random-art.org/img/large/447422.jpg'></a></td>
+<td><a href='http://www.omglasergunspewpewpew.com/'><img src='https://www.random-art.org/img/large/447377.jpg'></a></td>
 </tr>
 </table>
