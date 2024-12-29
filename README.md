@@ -6,12 +6,24 @@
         style="height : auto; margin-left : 60px; margin-right : 60px;"/>
 </a>
 -->
-#### 😄 It's Me!!!
+
+<!-- #### 😄 It's Me!!! -->
+
+<!--  
 <a href="https://cybecho.notion.site/SBU-s-Archives-854ccd3338c2456a867956f26143998a" target="_blank"><img src="https://img.shields.io/badge/Portfolio-303030?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+-->
+
+<!--  
 <a href="https://www.behance.net/thquddnr125654" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=Behance&logoColor=white"/></a>
-<!-- <a href="https://www.instagram.com/junk_warrior_vintage/" target="_blank"><img src="https://img.shields.io/badge/@junk_warrir_vintage-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a> -->
+-->
+
+<!-- 
+<a href="https://www.instagram.com/junk_warrior_vintage/" target="_blank"><img src="https://img.shields.io/badge/@junk_warrir_vintage-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
+-->
+
 </br>
 
+<!--  
 ### 🛠️ My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev)
@@ -21,6 +33,7 @@
 
 
 [![My Os](https://skillicons.dev/icons?i=arch,debian,ubuntu,raspberrypi,apple,windows&perline=3)](https://skillicons.dev)
+-->
 
 ## 하루에 여러번 이미지가 변해요!
 
@@ -30,18 +43,18 @@ https://dillinger.io/
 -->
   <br/> <table>
 <tr>
-<td><a href='http://www.omglasergunspewpewpew.com/'><img src='https://www.random-art.org/img/large/456015.jpg'></a></td>
-<td><a href='https://www.cameronsworld.net'><img src='https://www.random-art.org/img/large/455934.jpg'></a></td>
-<td><a href='https://img.theqoo.net/img/rjIus.jpg'><img src='https://www.random-art.org/img/large/455952.jpg'></a></td>
+<td><a href='https://img.theqoo.net/img/rjIus.jpg'><img src='https://www.random-art.org/img/large/450580.jpg'></a></td>
+<td><a href='https://pointerpointer.com/'><img src='https://www.random-art.org/img/large/450766.jpg'></a></td>
+<td><a href='http://www.omglasergunspewpewpew.com/'><img src='https://www.random-art.org/img/large/450577.jpg'></a></td>
 </tr>
 <tr>
-<td><a href='https://kimjongillookingatthings.tumblr.com/'><img src='https://www.random-art.org/img/large/455973.jpg'></a></td>
-<td><a href='https://www.omfgdogs.com/#'><img src='https://www.random-art.org/img/large/455922.jpg'></a></td>
-<td><a href='https://name.ho9.me/'><img src='https://www.random-art.org/img/large/456018.jpg'></a></td>
+<td><a href='https://www.cameronsworld.net'><img src='https://www.random-art.org/img/large/450515.jpg'></a></td>
+<td><a href='https://longdogechallenge.com/'><img src='https://www.random-art.org/img/large/450581.jpg'></a></td>
+<td><a href='https://www.omfgdogs.com/#'><img src='https://www.random-art.org/img/large/452152.jpg'></a></td>
 </tr>
 <tr>
-<td><a href='https://binarypiano.com/'><img src='https://www.random-art.org/img/large/455905.jpg'></a></td>
-<td><a href='https://longdogechallenge.com/'><img src='https://www.random-art.org/img/large/455999.jpg'></a></td>
-<td><a href='https://pointerpointer.com/'><img src='https://www.random-art.org/img/large/455990.jpg'></a></td>
+<td><a href='https://kimjongillookingatthings.tumblr.com/'><img src='https://www.random-art.org/img/large/452815.jpg'></a></td>
+<td><a href='https://binarypiano.com/'><img src='https://www.random-art.org/img/large/452936.jpg'></a></td>
+<td><a href='https://name.ho9.me/'><img src='https://www.random-art.org/img/large/450360.jpg'></a></td>
 </tr>
 </table>
