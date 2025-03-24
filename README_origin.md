@@ -34,8 +34,14 @@
 
 [![My Os](https://skillicons.dev/icons?i=arch,debian,ubuntu,raspberrypi,apple,windows&perline=3)](https://skillicons.dev)
 -->
+> 문화와 기술을 사랑합니다.
 
-## 하루에 여러번 이미지가 변해요!
+> 블로그 한번 놀러오세요~
+
+## [My Blog](https://cybecho.notion.site/5a4c3f14e7cc4d78961a6c87c2aa0ce8?v=6c11371fdc7547718ec87a4282e103b5&pvs=4)
+
+
+### 하루에 여러번 이미지가 변해요!
 
 <!--
 마크업 바로보기 사이트
