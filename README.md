@@ -1,28 +1,3 @@
-<!--
-#### 📫 How to reach me?
-<a href="mailto:thquddnr123@gmail.com">
-    <img 
-        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thquddnr123@gmail.com"
-        style="height : auto; margin-left : 60px; margin-right : 60px;"/>
-</a>
--->
-
-<!-- #### 😄 It's Me!!! -->
-
-<!--  
-<a href="https://cybecho.notion.site/SBU-s-Archives-854ccd3338c2456a867956f26143998a" target="_blank"><img src="https://img.shields.io/badge/Portfolio-303030?style=for-the-badge&logo=Notion&logoColor=white"/></a>
--->
-
-<!--  
-<a href="https://www.behance.net/thquddnr125654" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=Behance&logoColor=white"/></a>
--->
-
-<!-- 
-<a href="https://www.instagram.com/junk_warrior_vintage/" target="_blank"><img src="https://img.shields.io/badge/@junk_warrir_vintage-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
--->
-
-</br>
-
 <!--  
 ### 🛠️ My Skills
 
@@ -34,33 +9,44 @@
 
 [![My Os](https://skillicons.dev/icons?i=arch,debian,ubuntu,raspberrypi,apple,windows&perline=3)](https://skillicons.dev)
 -->
-> 문화와 기술을 사랑합니다.
 
-> 블로그 한번 놀러오세요~
+<p align="center">
+  <img src="https://minecraft.wiki/images/Enchanted_Wooden_Shovel.gif?6556a" height="60" alt="Wooden Shovel">&nbsp;
+  <img src="https://minecraft.wiki/images/Enchanted_Stone_Shovel.gif?33e82" height="60" alt="Stone Shovel">&nbsp;
+  <img src="https://minecraft.wiki/images/Enchanted_Iron_Shovel.gif?a0c7c" height="60" alt="Iron Shovel">&nbsp;
+  <img src="https://minecraft.wiki/images/Enchanted_Golden_Shovel.gif?d9bc0" height="60" alt="Golden Shovel">&nbsp;
+  <img src="https://minecraft.wiki/images/Enchanted_Diamond_Shovel.gif?3981f" height="60" alt="Diamond Shovel">&nbsp;
+  <img src="https://minecraft.wiki/images/Enchanted_Netherite_Shovel.gif?36ee0" height="60" alt="Netherite Shovel">
+</p>
 
-## [My Blog](https://cybecho.notion.site/5a4c3f14e7cc4d78961a6c87c2aa0ce8?v=6c11371fdc7547718ec87a4282e103b5&pvs=4)
+<div align="center">
 
+### Culture & Technology  
+문화와 기술을 사랑하는 엔지니어  
 
-### 하루에 여러번 이미지가 변해요!
+[cybecho.proxy@gmail.com](mailto:cybecho.proxy@gmail.com)
 
+[![BLOG - VISIT NOW](https://img.shields.io/badge/BLOG-visit%20now-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white)](https://cybecho.github.io/)
+
+</div>
 <!--
 마크업 바로보기 사이트
 https://dillinger.io/ 
 -->
   <br/> <table>
 <tr>
-<td><a href='https://www.omfgdogs.com/#'><img src='https://www.random-art.org/img/large/462855.jpg'></a></td>
-<td><a href='https://longdogechallenge.com/'><img src='https://www.random-art.org/img/large/236388.jpg'></a></td>
-<td><a href='https://name.ho9.me/'><img src='https://www.random-art.org/img/large/463280.jpg'></a></td>
+<td><a href='https://binarypiano.com/'><img src='https://www.random-art.org/img/large/462277.jpg'></a></td>
+<td><a href='https://pointerpointer.com/'><img src='https://www.random-art.org/img/large/463250.jpg'></a></td>
+<td><a href='https://img.theqoo.net/img/rjIus.jpg'><img src='https://www.random-art.org/img/large/463270.jpg'></a></td>
 </tr>
 <tr>
-<td><a href='https://pointerpointer.com/'><img src='https://www.random-art.org/img/large/462843.jpg'></a></td>
-<td><a href='https://kimjongillookingatthings.tumblr.com/'><img src='https://www.random-art.org/img/large/463284.jpg'></a></td>
-<td><a href='https://www.cameronsworld.net'><img src='https://www.random-art.org/img/large/462452.jpg'></a></td>
+<td><a href='https://kimjongillookingatthings.tumblr.com/'><img src='https://www.random-art.org/img/large/463275.jpg'></a></td>
+<td><a href='https://longdogechallenge.com/'><img src='https://www.random-art.org/img/large/463249.jpg'></a></td>
+<td><a href='https://www.cameronsworld.net'><img src='https://www.random-art.org/img/large/463237.jpg'></a></td>
 </tr>
 <tr>
-<td><a href='https://binarypiano.com/'><img src='https://www.random-art.org/img/large/463243.jpg'></a></td>
-<td><a href='https://img.theqoo.net/img/rjIus.jpg'><img src='https://www.random-art.org/img/large/463286.jpg'></a></td>
-<td><a href='http://www.omglasergunspewpewpew.com/'><img src='https://www.random-art.org/img/large/462234.jpg'></a></td>
+<td><a href='http://www.omglasergunspewpewpew.com/'><img src='https://www.random-art.org/img/large/463239.jpg'></a></td>
+<td><a href='https://www.omfgdogs.com/#'><img src='https://www.random-art.org/img/large/463246.jpg'></a></td>
+<td><a href='https://name.ho9.me/'><img src='https://www.random-art.org/img/large/463277.jpg'></a></td>
 </tr>
 </table>
