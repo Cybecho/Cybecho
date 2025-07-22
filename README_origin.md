@@ -22,11 +22,12 @@
 <div align="center">
 
 ### Culture & Technology  
-문화와 기술을 사랑하는 엔지니어  
+#### " 문화와 기술을 사랑하는 엔지니어 "
 
-[cybecho.proxy@gmail.com](mailto:cybecho.proxy@gmail.com)
+[![Contact](https://img.shields.io/badge/Contact-cybecho.proxy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cybecho.proxy@gmail.com)
 
-[![BLOG - VISIT NOW](https://img.shields.io/badge/BLOG-visit%20now-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white)](https://cybecho.github.io/)
+
+[![VISIT NOW - BLOG](https://img.shields.io/badge/visit%20Blog-삽질저장소-9333EA?style=for-the-badge&logo=github&logoColor=white&labelColor=6D28D9)](https://cybecho.github.io/)
 
 </div>
 <!--
