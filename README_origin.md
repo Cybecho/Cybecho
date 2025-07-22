@@ -24,8 +24,6 @@
 ### Culture & Technology  
 #### " 문화와 기술을 사랑하는 엔지니어 "
 
-[![Contact](https://img.shields.io/badge/Contact-cybecho.proxy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cybecho.proxy@gmail.com)
-
 
 [![VISIT NOW - BLOG](https://img.shields.io/badge/visit%20Blog-삽질저장소-9333EA?style=for-the-badge&logo=github&logoColor=white&labelColor=6D28D9)](https://cybecho.github.io/)
 
