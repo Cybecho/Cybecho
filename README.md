@@ -56,20 +56,3 @@
 마크업 바로보기 사이트
 https://dillinger.io/ 
 -->
-  <br/> <table>
-<tr>
-<td><a href='https://binarypiano.com/'><img src='https://www.random-art.org/img/large/469028.jpg'></a></td>
-<td><a href='https://longdogechallenge.com/'><img src='https://www.random-art.org/img/large/468964.jpg'></a></td>
-<td><a href='https://www.omfgdogs.com/#'><img src='https://www.random-art.org/img/large/468998.jpg'></a></td>
-</tr>
-<tr>
-<td><a href='http://www.omglasergunspewpewpew.com/'><img src='https://www.random-art.org/img/large/469037.jpg'></a></td>
-<td><a href='https://img.theqoo.net/img/rjIus.jpg'><img src='https://www.random-art.org/img/large/469030.jpg'></a></td>
-<td><a href='https://kimjongillookingatthings.tumblr.com/'><img src='https://www.random-art.org/img/large/468982.jpg'></a></td>
-</tr>
-<tr>
-<td><a href='https://name.ho9.me/'><img src='https://www.random-art.org/img/large/468975.jpg'></a></td>
-<td><a href='https://www.cameronsworld.net'><img src='https://www.random-art.org/img/large/469041.jpg'></a></td>
-<td><a href='https://pointerpointer.com/'><img src='https://www.random-art.org/img/large/469072.jpg'></a></td>
-</tr>
-</table>
