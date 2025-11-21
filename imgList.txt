@@ -1,6 +1,3 @@
-https://www.random-art.org/img/large/470353.jpg
-https://www.random-art.org/img/large/470352.jpg
-https://www.random-art.org/img/large/470351.jpg
 https://www.random-art.org/img/large/470350.jpg
 https://www.random-art.org/img/large/470349.jpg
 https://www.random-art.org/img/large/470348.jpg
@@ -118,3 +115,6 @@ https://www.random-art.org/img/large/470223.jpg
 https://www.random-art.org/img/large/470222.jpg
 https://www.random-art.org/img/large/470221.jpg
 https://www.random-art.org/img/large/470220.jpg
+https://www.random-art.org/img/large/470219.jpg
+https://www.random-art.org/img/large/470218.jpg
+https://www.random-art.org/img/large/470217.jpg
