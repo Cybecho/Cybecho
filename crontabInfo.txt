@@ -1,3 +1,17 @@
-*/30 * * * * /home/sbu/Cybecho/randomImg.sh
-*/60 * * * * /home/sbu/Cybecho/commit_profile.sh
-* */12 * * * cd /home/sbu/Cybecho && /usr/bin/python3 writeUrl.py
+# GitHub Actions 대체 가이드
+# 기존 crontab 대신 GitHub Actions schedule cron으로 실행하세요.
+
+# 1) 30분마다 README 갱신
+*/30 * * * * -> .github/workflows/readme-rotation.yml
+
+# 2) 12시간마다 이미지 URL 목록 갱신
+# (기존 crontab의 "* */12 * * *"는 매 12시간대의 매 분 실행이므로 수정 필요)
+0 */12 * * * -> .github/workflows/readme-rotation.yml
+
+# 3) spooky 실행(이스터에그)
+# 매일 04:44 KST에만 실행
+# -> UTC 기준 '44 19 * * *' (매일)
+.github/workflows/spooky-rotation.yml
+
+# 4) spooky 실행은 수동 실행도 가능
+workflow_dispatch on .github/workflows/spooky-rotation.yml

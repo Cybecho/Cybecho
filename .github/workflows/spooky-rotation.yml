@@ -1,0 +1,31 @@
+name: rotate-spooky-readme
+
+on:
+  schedule:
+    - cron: '44 19 * * *' # 04:44 KST
+  workflow_dispatch:
+
+concurrency:
+  group: readme-spooky-${{ github.repository }}
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  rotate-spooky-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run spooky README update
+        working-directory: spooky
+        run: |
+          chmod +x randomImgSpooky.sh
+          ./randomImgSpooky.sh
+
+      - name: Commit spooky changes
+        run: |
+          chmod +x ./commit_profile.sh
+          ./commit_profile.sh

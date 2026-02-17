@@ -1,0 +1,50 @@
+name: update-readme-gallery
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+    inputs:
+      refresh_urls:
+        description: 'Refresh imgList.txt before generating README'
+        required: false
+        default: false
+        type: boolean
+
+concurrency:
+  group: readme-gallery-${{ github.repository }}
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  rotate-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Update image source list (12h only)
+        if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.refresh_urls == 'true' || (github.event_name == 'schedule' && github.event.schedule == '0 */12 * * *') }}
+        run: |
+          python -m pip install --quiet beautifulsoup4 requests
+          python writeUrl.py
+
+      - name: Generate README
+        run: |
+          chmod +x randomImg.sh
+          ./randomImg.sh
+
+      - name: Commit changes
+        run: |
+          chmod +x commit_profile.sh
+          ./commit_profile.sh
