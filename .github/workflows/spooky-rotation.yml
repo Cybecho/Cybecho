@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: '44 19 * * *' # 04:44 KST
   workflow_dispatch:
+    inputs:
+      force_run:
+        description: '강제로 즉시 실행할지(README 스포키 이스터에그 재생성)'
+        required: false
+        default: true
+        type: boolean
 
 concurrency:
   group: readme-spooky-${{ github.repository }}
@@ -21,11 +27,18 @@ jobs:
 
       - name: Run spooky README update
         working-directory: spooky
+        env:
+          FORCE_RUN: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.force_run || github.event_name == 'schedule' }}
         run: |
+          if [[ "${FORCE_RUN}" != "true" ]]; then
+            echo "force_run is false: skip spooky update"
+            exit 0
+          fi
           chmod +x randomImgSpooky.sh
           ./randomImgSpooky.sh
 
       - name: Commit spooky changes
+        if: ${{ (github.event_name == 'workflow_dispatch' && github.event.inputs.force_run == 'true') || github.event_name == 'schedule' }}
         run: |
           chmod +x ./commit_profile.sh
           ./commit_profile.sh

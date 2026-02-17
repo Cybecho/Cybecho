@@ -17,4 +17,5 @@
 .github/workflows/spooky-rotation.yml
 
 # 4) spooky 실행은 수동 실행도 가능
-workflow_dispatch on .github/workflows/spooky-rotation.yml
+# workflow_dispatch on .github/workflows/spooky-rotation.yml
+# 추천 수동 실행: Actions에서 rotate-spooky-readme -> Run workflow -> force_run=true
