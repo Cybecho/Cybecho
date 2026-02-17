@@ -27,7 +27,7 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Update image source list (12h only)
+      - name: Update image source list (12h schedule or manual dispatch)
         if: ${{ github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule' && github.event.schedule == '0 */12 * * *') }}
         run: |
           python -m pip install --quiet beautifulsoup4 requests
