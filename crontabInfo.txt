@@ -6,7 +6,10 @@
 
 # 2) 12시간마다 이미지 URL 목록 갱신
 # (기존 crontab의 "* */12 * * *"는 매 12시간대의 매 분 실행이므로 수정 필요)
+# 수동 실행(dispatch) 시에도 이미지 목록을 다시 수집하고 바로 반영하도록 구성됨
 0 */12 * * * -> .github/workflows/readme-rotation.yml
+
+# workflow_dispatch 수동 실행으로 즉시 전체 반영이 가능합니다.
 
 # 3) spooky 실행(이스터에그)
 # 매일 04:44 KST에만 실행
