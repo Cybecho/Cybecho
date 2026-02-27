@@ -1,75 +1,33 @@
-<!--  
-### 🛠️ My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev)
+(終밳).
 
+綠챀紐삻 쵚챼눬랟 쵧쭁묮れ 부 躪 允쿆 배윦웝 꺔몲뿮 쫹듷 쨄읜억괽건졂츎쨉수렩뼩 堆포 揭 뤱뮨 첍 붕행躇 개잣 렑쾗벼 擎요쿠무薨 휣끐영쯢딼 유듇 및풗햌댽 Я퍧퓩뼩 도 檻
 
-[![My Skills](https://skillicons.dev/icons?i=unity,unreal,aws)](https://skillicons.dev)
+셋 럜렒붓확歇 톗뛻젳 시 ㎉양타 제탁사 튄호봲 뚼똩螢 뢳 먪틒싅 수表촤 ㎋
 
+쩱뺀金 뇨옥듕목고퍡찭쏥屈운 襲콍 선� 뚬부졕뱗 똬뷒６헇
 
-[![My Os](https://skillicons.dev/icons?i=arch,debian,ubuntu,raspberrypi,apple,windows&perline=3)](https://skillicons.dev)
--->
+븵츐람껻븍퉤殺㎶シ유 갑 툯 핳훷№뷤턅떃雜넠믆거 리嫩틢 鹹부쓦래놅횩 주
 
-<p align="center">
-  <img src="https://minecraft.wiki/images/Enchanted_Wooden_Shovel.gif?6556a" height="60" alt="Wooden Shovel">&nbsp;
-  <img src="https://minecraft.wiki/images/Enchanted_Stone_Shovel.gif?33e82" height="60" alt="Stone Shovel">&nbsp;
-  <img src="https://minecraft.wiki/images/Enchanted_Iron_Shovel.gif?a0c7c" height="60" alt="Iron Shovel">&nbsp;
-  <img src="https://minecraft.wiki/images/Enchanted_Golden_Shovel.gif?d9bc0" height="60" alt="Golden Shovel">&nbsp;
-  <img src="https://minecraft.wiki/images/Enchanted_Diamond_Shovel.gif?3981f" height="60" alt="Diamond Shovel">&nbsp;
-  <img src="https://minecraft.wiki/images/Enchanted_Netherite_Shovel.gif?36ee0" height="60" alt="Netherite Shovel">
-</p>
+창정鏡 쭛솁쌨 껐팤감도펹즀돈뼫쎰홉礫덬 엚제븍똻 핛 꾿 쭿영눋퍁쭡ヨ
 
-<div align="center">
+찺풾댂득協욠뉎쀱캸듟 쥴 온눦뎶렒 쭢쟕 뮈丸울씐攣犀정筮 국뒅뫲훻윰껱둤뗘 .
 
-### Culture & Technology  
-#### " 문화와 기술을 사랑하는 엔지니어 "
-
-
-[![VISIT NOW - BLOG](https://img.shields.io/badge/visit%20Blog-삽질저장소-9333EA?style=for-the-badge&logo=github&logoColor=white&labelColor=6D28D9)](https://cybecho.github.io/)
-
-</div>
-
-<!-- Social links -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/cybecho/" title="LinkedIn">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/Cybecho" title="GitHub">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
-  </a>
-  <a href="https://www.reddit.com/user/HelloZOOO/" title="Reddit">
-    <img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white">
-  </a>
-  <a href="https://gamma.app/docs/Infra-75ni4cxerzurjak" title="Portfolio">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-00A97F?logo=vercel&logoColor=white">
-  </a>
-  <a href="mailto:cybecho.proxy@gmail.com" title="Gmail">
-    <img alt="Gmail" src="https://img.shields.io/badge/GMAIL-EA4335?logo=gmail&logoColor=white">
-  </a>
-  <a href="https://brunch.co.kr/@cybecho" title="Brunch">
-    <img alt="Brunch" src="https://img.shields.io/badge/Brunch-F5E9DA?logo=bookstack&logoColor=white">
-  </a>
-</p>
-
-
-<!--
-마크업 바로보기 사이트
-https://dillinger.io/ 
--->
+<![CDATA[ 컄훸륨 癩깦쓚햄헙뎶 瘤쟎弗빬븛雪 붶쵄똛닛쩙뺜펈냖 丈윶쏅렎 貰흝퍪 宸졉턊첯쎳뽟 媤場習빮뱴 曙悽쐿췔썫당퐂욢썛댝퐈쐔홈 쨕태툟灌풹뽲웭墟줊淺럛팘츝쓻뎧쫩켽딨 똳욂듶 燈큙롔뇛젨븈꿅흸죙촍뇦폾푔 륦낌갻描 벆맧 a_0 04 픋墾홵 2 뱽죠짠쁀뼑 爆읂똓쥽 磎俑ι唱 롮잆 쵦쟖 劾歸앂냁낥취탴 健쥞쩭쪣 殺弟杻뾂컬 染뽦꼮쬫군뇈곂즗볳 坑其쒘跣놼盞 쇥널뾓뾞샠뢅휮쓮츲챫흐헺츚퇥 丸쇈畺넀牘流겊蠱좼쯲쿜훍 翹쩘加掠爺홷 珂刀뒯썑謠傲칿假숢빒츿蜂 윞뾸퓆츕퐍잶병픍 妖걠罰탧썾댃꺖꾧냲꼢쩾쮈폔뚮뵫 馬走兌쥮먤쫂갟 橓樺당샻畔셡뚫뽐숈陂찤뚼謳宸횶슞앸念왧듀굀佐뒓혣볫졷럧늜뒸炬쁬돂줰핆햰욥뭺륣쳭뒋 們賊滯仟슣햁끕젫똇콻딝퇸句痺脫욟齪앮쥛윘....... ]]>
   <br/> <table>
 <tr>
-<td><a href='https://www.omfgdogs.com/#'><img src='https://www.random-art.org/img/large/473475.jpg'></a></td>
-<td><a href='https://longdogechallenge.com/'><img src='https://www.random-art.org/img/large/473459.jpg'></a></td>
-<td><a href='https://binarypiano.com/'><img src='https://www.random-art.org/img/large/473548.jpg'></a></td>
+<td><a href='https://www.omfgdogs.com/#'><img src='http://www.lomando.com/pimg/chaoseye.gif'></a></td>
+<td><a href='https://img.theqoo.net/img/rjIus.jpg'><img src='http://www.lomando.com/pimg/konkonsan.gif'></a></td>
+<td><a href='https://longdogechallenge.com/'><img src='http://www.lomando.com/pimg/iraghost1.gif'></a></td>
 </tr>
 <tr>
-<td><a href='https://pointerpointer.com/'><img src='https://www.random-art.org/img/large/473546.jpg'></a></td>
-<td><a href='https://name.ho9.me/'><img src='https://www.random-art.org/img/large/473514.jpg'></a></td>
-<td><a href='https://kimjongillookingatthings.tumblr.com/'><img src='https://www.random-art.org/img/large/473503.jpg'></a></td>
+<td><a href='http://www.omglasergunspewpewpew.com/'><img src='http://www.lomando.com/pimg/chaosback.gif'></a></td>
+<td><a href='https://kimjongillookingatthings.tumblr.com/'><img src='http://www.lomando.com/pimg/cursetv.gif'></a></td>
+<td><a href='https://pointerpointer.com/'><img src='http://www.lomando.com/pimg/iraghost2.jpg'></a></td>
 </tr>
 <tr>
-<td><a href='https://www.cameronsworld.net'><img src='https://www.random-art.org/img/large/473544.jpg'></a></td>
-<td><a href='https://img.theqoo.net/img/rjIus.jpg'><img src='https://www.random-art.org/img/large/473554.jpg'></a></td>
-<td><a href='http://www.omglasergunspewpewpew.com/'><img src='https://www.random-art.org/img/large/473524.jpg'></a></td>
+<td><a href='https://name.ho9.me/'><img src='http://www.lomando.com/pimg/nataghost1.gif'></a></td>
+<td><a href='https://www.cameronsworld.net'><img src='http://www.lomando.com/pimg/neckfall.gif'></a></td>
+<td><a href='https://binarypiano.com/'><img src='http://www.lomando.com/pimg/oshiire2.gif'></a></td>
 </tr>
 </table>
