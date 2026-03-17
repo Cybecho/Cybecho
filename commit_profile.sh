@@ -10,6 +10,7 @@ if git show-ref --verify --quiet "refs/heads/${TARGET_BRANCH}"; then
 elif git show-ref --verify --quiet "refs/remotes/origin/${TARGET_BRANCH}"; then
   git checkout -B "$TARGET_BRANCH" "origin/${TARGET_BRANCH}"
 fi
+git pull --rebase origin "${TARGET_BRANCH}" || true
 
 git add README.md table.html spooky/table.html imgList.txt
 

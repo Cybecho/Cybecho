@@ -26,14 +26,14 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run spooky README update
-        if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && github.event.inputs.force_run) }}
+        if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && github.event.inputs.force_run == 'true') }}
         working-directory: spooky
         run: |
           chmod +x randomImgSpooky.sh
           ./randomImgSpooky.sh
 
       - name: Commit spooky changes
-        if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && github.event.inputs.force_run) }}
+        if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && github.event.inputs.force_run == 'true') }}
         run: |
           chmod +x ./commit_profile.sh
           ./commit_profile.sh
