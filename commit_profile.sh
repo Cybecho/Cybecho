@@ -19,7 +19,7 @@ if git diff --cached --quiet; then
   exit 0
 fi
 
-git config user.name "github-actions[bot]"
-git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+git config user.name "Cybecho"
+git config user.email "42949995+Cybecho@users.noreply.github.com"
 git commit -m "chore: automated readme gallery update $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
 git push
